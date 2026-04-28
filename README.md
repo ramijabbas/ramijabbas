@@ -21,11 +21,10 @@ _start:
 
 
 # 📊 GitHub Stats:
-<p align="center">
 ![](https://github-readme-stats.shion.dev/api?username=ramijabbas&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=ramijabbas&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ramijabbas&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</p>
+
 ### ✍️  Quote
 
 “I’m not just learning to code… I’m learning how the world behind the screen really works.”
