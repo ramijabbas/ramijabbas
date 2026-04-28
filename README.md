@@ -14,8 +14,8 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ramijabbas&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️  Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+hi
 ---
 [![](https://komarev.com/ghpvc/?username=ramijabbas&icon=0&color=0)](https://visitcount.itsvg.in)
 
