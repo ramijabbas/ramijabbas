@@ -15,7 +15,7 @@
 
 ### ✍️  Quote
 
-hi
+“I’m not just learning to code… I’m learning how the world behind the screen really works.”
 ---
 [![](https://komarev.com/ghpvc/?username=ramijabbas&icon=0&color=0)](https://visitcount.itsvg.in)
 
