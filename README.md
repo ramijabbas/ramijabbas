@@ -1,16 +1,4 @@
 
-
-
-
-<p align="center">
-<code>01001000 01101001 00100000 01010010 01100001 01101101 01101001 01101010</code>
-</p>
-
-<p align="center">
-<code>mov role, "builder"</code><br>
-<code>mov mission, "understand systems"</code>
-</p>
-
  “Hi, I’m Ramij
  
  01001000 01101001 00100000 01001001 00100111 01101101 00100000 01010010 01100001 01101101 01101001 01101010
