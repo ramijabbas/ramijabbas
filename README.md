@@ -1,5 +1,10 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00FFCC&size=22&center=true&vCenter=true&width=600&lines=Hi+I'm+Ramij;Building+my+own+Operating+System;Learning+how+computers+really+work">
+<code>01001000 01101001 00100000 01010010 01100001 01101101 01101001 01101010</code>
+</p>
+
+<p align="center">
+<code>mov role, "builder"</code><br>
+<code>mov mission, "understand systems"</code>
 </p>
 
  “Hi, I’m Ramij
