@@ -6,7 +6,7 @@
 
 <p align="center">
 <code>section .data</code><br>
-<code>name db "Ramij", 0</code><br><br>
+<code>name db "Ramij", 0</code><br>
 </p>
 <p align="center">
 <code>section .text</code><br>
