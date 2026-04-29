@@ -11,7 +11,9 @@
 <p align="center">
 <code>section .text</code><br>
 <code>global _start</code><br>
-
+</p>
+ 
+<p align="center">
 <code>_start:</code><br>
 <code>; initializing builder</code><br>
 <code>mov rax, 1</code>
