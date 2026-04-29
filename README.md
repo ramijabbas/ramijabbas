@@ -32,3 +32,7 @@ _start:
 [![](https://komarev.com/ghpvc/?username=ramijabbas&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00FFCC&size=22&center=true&vCenter=true&width=600&lines=Hi+I'm+Ramij;Building+my+own+Operating+System;Learning+how+computers+really+work">
+</p>
