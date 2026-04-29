@@ -10,7 +10,7 @@
 </p>
 <p align="center">
 <code>section .text</code><br>
-<code>global _start</code><br><br>
+<code>global _start</code><br>
 
 <code>_start:</code><br>
 <code>; initializing builder</code><br>
