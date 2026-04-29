@@ -1,4 +1,8 @@
-
+<p align="center">
+<a href="https://your-game-link.com">
+<img src="game-demo.gif" width="700">
+</a>
+</p>
  “Hi, I’m Ramij
  
  01001000 01101001 00100000 01001001 00100111 01101101 00100000 01010010 01100001 01101101 01101001 01101010
