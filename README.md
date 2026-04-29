@@ -50,7 +50,7 @@
 </p>
 
 ---
-
+---
 <h2 align="center">🧠 Quote</h2>
 
 <p align="center">
