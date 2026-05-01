@@ -38,7 +38,7 @@
 
 ---
 <p align="center">
-<img src="https://raw.githubusercontent.com/ramijabbas/ramijabbas/output/github-contribution-grid-snake.svg">
+<img src="https://iconscout.com/lottie-animation/github-animation_8807658">
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
