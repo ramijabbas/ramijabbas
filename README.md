@@ -38,7 +38,7 @@
 
 ---
 <p align="center">
-<img src="[https://iconscout.com/lottie-animation/github-animation_8880765](https://wallpapers.com/iron-man-superhero)">
+<img src="">
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
