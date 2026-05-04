@@ -4,20 +4,6 @@
 <code>01001000 01101001 00100000 01001001 00100111 01101101 00100000 01010010 01100001 01101101 01101001 01101010</code>
 </p>
 
-<p align="center">
-<code>section .data</code><br>
-<code>name db "Ramij", 0</code><br>
-</p>
-<p align="center">
-<code>section .text</code><br>
-<code>global _start</code><br>
-</p>
- 
-<p align="center">
-<code>_start:</code><br>
-<code>; initializing builder</code><br>
-<code>mov rax, 1</code>
- </p>
 
 ---
 
